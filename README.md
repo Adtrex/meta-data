@@ -1,4 +1,4 @@
-# @Meta-Data
+# @Meta-Data :clipboard:
  A collection of assets - _images_, _snippets,_ _repos_, _templates_ and more for web and hybrid application developer using stacks common as at the compilation of this document. Stacks like:
  - MEVN  My favourite :sparkles:
  - MEAN 
@@ -25,7 +25,7 @@
   > Abstract background
   
 
- 2. <a  href="https://https://www.pexels.com/" target="_blank" target="_blank">Pexels</a>
+ 2. <a  href="https://www.pexels.com/" target="_blank" target="_blank">Pexels</a>
  > Free photos 
  > Background photos
  > Best freestocl videos
