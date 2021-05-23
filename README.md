@@ -77,7 +77,7 @@ more...
 
 
 3. <a href="https://uigradients.com/" target="_blank">UI gradient</a>
-Just like *<a href="https://www.cssgradient.io"target="_blank">Css gradient</a>*
+Just like <a href="https://www.cssgradient.io"target="_blank">Css gradient</a>
 A handpicked collection of beautiful color gradients for designers and developers.
 
 4. <a href="https://bennettfeely.com/scales/" target="_blank">bennettfeely</a>
