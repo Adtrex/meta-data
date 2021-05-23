@@ -23,8 +23,8 @@
   > Design Image & more
   > Abstract background
   
-### <a href="www.pexel.com">Pexel</a>
-### <a href="https://www.google.com/" target="_blank">Google</a>
+
+### <a href="https://www.pexel.com/" target="_blank">Pexel</a>
  > Free photos 
  > Background photos
  > Best freestocl videos
