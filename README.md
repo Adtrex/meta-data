@@ -118,6 +118,10 @@ Using our awesome gradients and hand drawn sketch components. <a href="https://i
 > unDraw · Open-source illustrations for any idea you can imagine and create. · A constantly updated design project with beautiful SVG images ...
 ![Humaans](assets/img/undraw.png)
 
+:five: <a href="https://2.flexiple.com/scale/all-illustrations#" target="_blank">2.Flexiple</p>
+>One new high-quality, open-source illustration each day. Use our color-picker to adapt the illustrations to your brand identity! ...
+![2.flexiple](assets/img/2.flexiple.png)
+
 
 
 # JavaScript UI library
