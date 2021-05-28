@@ -12,7 +12,7 @@
 - [x] [Collection of open source svg backgrounds](#svg-background)
 - [x] [CSS Rule generators](#css-rule-generators)
 - [x] [JavaScript UI library](#javascript-libraries)
-- [x]  [SVG illustrations](#svg-illustrations)
+- [x] [SVG illustrations](#svg-illustrations)
 - [x] [UI templates & patterns](#ui-templates-&-patterns)
 - [x] [Icon libraries](#icon-libraries) :mag: 
 - [x] [Work arounds](#work-arounds) :horse_racing:
@@ -118,13 +118,15 @@ Using our awesome gradients and hand drawn sketch components. <a href="https://i
 > unDraw · Open-source illustrations for any idea you can imagine and create. · A constantly updated design project with beautiful SVG images ...
 ![Humaans](assets/img/undraw.png)
 
-:five: <a href="https://2.flexiple.com/scale/all-illustrations#" target="_blank">2.Flexiple</p>
+:five: <a href="https://2.flexiple.com/scale/all-illustrations#" target="_blank">2.Flexiple</a>
 >One new high-quality, open-source illustration each day. Use our color-picker to adapt the illustrations to your brand identity! ...
-![2.flexiple](assets/img/Beautiful illustrations of Black people for your next digital project
+![2.flexiple](assets/img/Screenshot_20210528-233419.png)
+
+
 :six: <a href="https://www.blackillustrations.com" target="_blank">:smiley: Black Illustrations</a>
 > Beautiful illustrations of Black people for your next digital project
->** :sad: it's cool but It has to be paid for **
-![black illustratiins)(assets/img/Screenshot_20210528-235146.png)
+> :sad: it's cool but **It has to be paid for**
+![black illustratiins](assets/img/Screenshot_20210528-235146.png)
 
 
 
