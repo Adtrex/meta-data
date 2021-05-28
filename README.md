@@ -120,7 +120,11 @@ Using our awesome gradients and hand drawn sketch components. <a href="https://i
 
 :five: <a href="https://2.flexiple.com/scale/all-illustrations#" target="_blank">2.Flexiple</p>
 >One new high-quality, open-source illustration each day. Use our color-picker to adapt the illustrations to your brand identity! ...
-![2.flexiple](assets/img/Screenshot_20210528-233419.png)
+![2.flexiple](assets/img/Beautiful illustrations of Black people for your next digital project
+:six: <a href="https://www.blackillustrations.com" target="_blank">:smiley: Black Illustrations</a>
+> Beautiful illustrations of Black people for your next digital project
+>** :sad: it's cool but It has to be paid for **
+![black illustratiins)(assets/img/Screenshot_20210528-235146.png)
 
 
 
