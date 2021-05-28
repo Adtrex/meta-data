@@ -120,7 +120,7 @@ Using our awesome gradients and hand drawn sketch components. <a href="https://i
 
 :five: <a href="https://2.flexiple.com/scale/all-illustrations#" target="_blank">2.Flexiple</p>
 >One new high-quality, open-source illustration each day. Use our color-picker to adapt the illustrations to your brand identity! ...
-![2.flexiple](assets/img/2.flexiple.png)
+![2.flexiple](assets/img/Screenshot_20210528-233419.png)
 
 
 
