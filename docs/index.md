@@ -34,7 +34,7 @@
 
 
 
-- [Design Trmplates](desigb-templates.md)
+- [Design Templates](design-templates.md)
 
 
 
