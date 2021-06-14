@@ -14,13 +14,13 @@
 
 
 
-
+|
 
 
 -  [SVG illustrations](svg-illustrations)
 -  [UI templates & patterns](ui-templates-&-patterns)
 -  [Icon libraries](icon-libraries.md)
--  [Work arounds](work-arounds) 
+-  [Work arounds](work-around) 
  
 
 
@@ -29,7 +29,12 @@
 
 
 
-[Design Trmplates](desigb-templates.md)
+|
+
+
+
+
+- [Design Trmplates](desigb-templates.md)
 
 
 
