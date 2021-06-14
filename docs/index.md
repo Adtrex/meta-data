@@ -16,9 +16,9 @@ nav:
     - About: 'about.md'
 
 ## Table of Content 
--  [Collection of open source images](#images) :foggy:
--  [Collection of open source svg backgrounds](#svg-background)
--  [CSS Rule generators](#css-rule-generators)
+ [Images](images.md)
+ [svg](svg.md)
+ [CSS Rule generators](css.md)
 -  [JavaScript UI library](#javascript-libraries)
 -  [SVG illustrations](#svg-illustrations)
 -  [UI templates & patterns](#ui-templates-&-patterns)
