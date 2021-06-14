@@ -14,7 +14,7 @@ It offers
 > Mobile and web templates amings other things
 
 3.  <a href="https://behance.com
-" target="_blank">Dribble</a>
+" target="_blank">Behance</a>
 
 >Behance is the world's largest creative network for showcasing and discovering creative work
 You get to see several design templates and it can also be used as a source of design inspiration
