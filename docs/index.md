@@ -1,11 +1,11 @@
-# @Meta-Data
+#            Meta-Data
  A collection of open source and paid a assets : - _images_, _snippets,_ _repos_, _templates_ and more for designers, web and hybrid application developer using stacks common as at the compilation of this document. Stacks like:
  
 
 
 
 
-## Table of Content 
+## Content 
 - [Images](images.md)
 - [svg](svg.md)
 - [CSS Rule generators](css.md)
