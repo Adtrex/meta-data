@@ -7,6 +7,14 @@
  - WAMPP :stuck_out_tongue_winking_eye:
  
 
+
+
+
+
+nav:
+    - Home: 'index.md'
+    - About: 'about.md'
+
 ## Table of Content 
 -  [Collection of open source images](#images) :foggy:
 -  [Collection of open source svg backgrounds](#svg-background)

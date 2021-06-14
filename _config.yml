@@ -1,1 +1,5 @@
 theme: jekyll-theme-dinky
+
+nav:
+    - Home: 'index.md'
+    - About: 'about.md'
