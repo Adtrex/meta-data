@@ -1,6 +1,7 @@
 
 # CSS Rules generators 
-<a name="css-rule-generators"></a>
+[Back to Home](index.md)
+
 
 1. <a href ="https://www.animista.net" target="_blank">Animista</a>
 >Animista is a CSS animation library and a place where you can play with a collection of ready-made CSS animations and download only ...

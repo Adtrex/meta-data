@@ -1,5 +1,6 @@
 # SVG Background 
-<a name="svg-background"></a>
+[Back to Home](index.md)
+
 
 1. <a href="https://www.shapedivider.io" target="_blank">shapedivider</a>
 >Custom Shape Dividers. 
