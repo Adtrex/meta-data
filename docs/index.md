@@ -1,5 +1,5 @@
 # @Meta-Data
- A collection of assets - _images_, _snippets,_ _repos_, _templates_ and more for web and hybrid application developer using stacks common as at the compilation of this document. Stacks like:
+ A collection of open source and paid a assets : - _images_, _snippets,_ _repos_, _templates_ and more for designers, web and hybrid application developer using stacks common as at the compilation of this document. Stacks like:
  
 
 
