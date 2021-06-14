@@ -12,21 +12,21 @@
 - [JavaScript UI library](js.md)
 
 
-/
+
 
 
 
 
 -  [SVG illustrations](svg-illustrations)
--  [UI templates & patterns](#ui-templates-&-patterns)
+-  [UI templates & patterns](ui-templates-&-patterns)
 -  [Icon libraries](icon-libraries.md)
--  [Work arounds](#work-arounds) 
+-  [Work arounds](work-arounds) 
  
 
 
 
 
-/
+
 
 
 [Design Trmplates](desigb-templates.md)
